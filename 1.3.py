@@ -1,0 +1,5 @@
+n = input("Введите число : ")
+x_1 = int(n)
+x_2 = int(n + n)
+x_3 = int(n + n + n)
+print(x_1 + x_2 + x_3)
